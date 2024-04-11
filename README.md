@@ -5,3 +5,7 @@
 ## Chrome 开发者工具
 
 -   [分析运行时性能](./Chrome%20开发者工具/分析运行时性能.md)
+
+## 优化方法
+
+-   [使用 requestIdleCallback](./优化方法/使用%20requestIdleCallback.md)
